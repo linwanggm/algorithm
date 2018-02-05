@@ -1,0 +1,5 @@
+在看postgres-xc 的 pgxcship.c 源码，里面用到了bitmap内容。
+参考阅读：
+https://www.cnblogs.com/protected/p/6626447.html
+http://blog.csdn.net/u010700335/article/details/43150411
+http://blog.chinaunix.net/uid-26896862-id-3443593.html
